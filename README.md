@@ -4,4 +4,4 @@
 
 在线访问：https://nerored.github.io/dongdong-goal-pages/
 
-最新构建：v0.18.8（v0.18.7 奖励/零花钱/家长锁、v0.18.8 PIN 输入禁用 iOS 密码自动填充）
+最新构建：v0.19.0（成长成就徽章、v0.18.8 PIN 输入禁用 iOS 密码自动填充、v0.18.7 奖励/零花钱/家长锁）
